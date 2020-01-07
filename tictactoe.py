@@ -1,13 +1,5 @@
 import os
 
-# there will be 2 players inputting moves
-# will need to draw a board
-# accept input of player position and place symbol
-
-## Player 1 is X
-## Player 2 is O
-
-#must use global var_name if going to write to global
 player_list = ['X','O']
 game_board = None
 instruction_board = None
